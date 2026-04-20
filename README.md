@@ -16,7 +16,10 @@ navigate through the site.
  Homepage View
 The main interface showing all available property listings.
 
-![Landing page]
+### Project Screenshots
+![Homepage](main.png)
+![Details page](details.png)
+![Another View](pot.png)
 
  🛠️ Technologies Used 
 - CSS  
